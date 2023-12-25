@@ -5,7 +5,7 @@
 # LiveKit Meet
 
 <p>
-  <a href="https://meet.livekit.io"><strong>Try the demo</strong></a>
+  <a href="https://meet.beebro.com"><strong>Try the demo</strong></a>
   •
   <a href="https://github.com/livekit/components-js">LiveKit Components</a>
   •
@@ -29,7 +29,7 @@ LiveKit Meet is an open source video conferencing app built on [LiveKit Componen
 
 ## Demo
 
-Give it a try at https://meet.livekit.io.
+Give it a try at https://meet.beebro.com.
 
 ## Dev Setup
 
